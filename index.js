@@ -25,4 +25,4 @@ console.log("El producto de 6 * 2 es:",resultado_producto)
 ///...Funcion de Dividir...///
 const dividir = (a, b) => a / b
 const resultado_dividir = dividir(2, 1)
-console.log("La division de 2 / 1 es:",resultado_dividir);
+console.log("La division de 2 / 1 es:",resultado_dividir)
